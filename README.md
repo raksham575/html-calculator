@@ -42,10 +42,10 @@ html-calculator/
 ```
 
 
-##My Contribution
+## My Contribution
 Developed the frontend of the calculator, including the HTML structure, Bootstrap-based layout, custom styling, user interactions, keyboard event handling, and calculator functionality using JavaScript and jQuery.
 
-##Project Context
+## Project Context
 
 **Internship Project – OneStop.ai**
 This project was completed as part of my frontend development training during my internship at OneStop.ai
